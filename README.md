@@ -8,7 +8,7 @@ The pros of this model are:
 
 The cons of this model are:
 * Limited features: The code only detects the number of fingers you are holding up, which is very simple compared to what other models might be able to do, the reason why those models could not be used in this short of time frame will be explained below
-* Accuracy: The accuracy of this model is defintely a lot less than others, but I found it to be passable enough to use for the first iteration of the gesture recognition.
+* Accuracy: The accuracy of this model is defintely lower than the other two that I was considering, but I found it to be passable enough to use for the first iteration of the gesture recognition.
 
 A few other models I would have had used:
 
